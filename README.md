@@ -1,4 +1,4 @@
-# Hi there 👋:rocket:
+# Hi there 👋
 
 ## :sparkles: About me
 
@@ -6,11 +6,16 @@
 
 👍 I am an open-minded, active, and sociable individual. I enjoy meeting new people, gaining diverse experiences, and surrounding myself with others.
 
-📚 In my free time usually i listen some music and play video games. 
+📖 I am an ambitious student with a passion for computer science, equipped with a solid programming foundation upon completing a programming course. My defining characteristic is a commitment to continuous growth and skill expansion.
 
-Computer games are also a passion of mine. They not only provide entertainment but also allow me to explore new worlds, engage in mental challenges, and build strategies. I find joy in immersing myself in captivating stories and competing with other players online. Computer games offer me a perfect blend of relaxation and the opportunity to develop skills such as observation, concentration, and quick decision-making.
+ 🧑‍🤝‍🧑 I value teamwork and am eager to both share my knowledge and learn from others. I actively seek opportunities to participate in both individual and collaborative projects to enhance my skills. Open to new challenges, I emphasize effective communication and a constructive approach to problem-solving.
 
-To sum up, in my free time as a programmer, I love listen good music and diving into computer games. It's not only a form of leisure for me but also a means of sharpening my mental abilities and deriving pleasure from creative thinking.
+Throughout my education, I have gained practical experience, allowing me to apply theoretical knowledge in real-world scenarios. Familiarity with various technologies and the ability to quickly absorb new information form the basis of my project approach.
+
+Armed with acquired knowledge and programming skills, I am prepared to contribute to projects with full commitment and creativity.
+
+- ⚡ Fun fact: I love Japan and someday i will try to learn their language!
+
 
 
 ## :star: Technology stack
@@ -31,9 +36,9 @@ To sum up, in my free time as a programmer, I love listen good music and diving 
 
 
 ## :mailbox: Contact and socials
-p.komorowski1998@gmail.com
+📧 p.komorowski1998@gmail.com
 
-https://www.linkedin.com/in/przemekkomorowski1998/
+📄 https://www.linkedin.com/in/przemekkomorowski1998/
 
 
 <!--
@@ -44,5 +49,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and React
 - 🤔 I’m looking for help with my Friends, old teachers or youtube. 
 - 💬 Ask me about my plans or what i try to achive!
-- ⚡ Fun fact: I love Japan and someday i will try to learn their language!
 -->
